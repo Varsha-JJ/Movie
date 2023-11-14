@@ -1,0 +1,32 @@
+.container-fluid{
+    width: 100%!important;
+    height: 700px!important;
+    background-color: rgb(58, 149, 123)!important;
+}
+
+.form-box{
+    width: 400px;
+    height: 350px;
+    padding: 20px;
+    background-color: white;
+}
+
+.form-box1{
+    width: 400px;
+    height: 340px;
+    padding: 20px;
+    background-color: white;
+}
+
+.btn{
+    background-color: rgb(42, 46, 46)!important;
+    border: none!important;
+    color: white!important;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 200px;
+}

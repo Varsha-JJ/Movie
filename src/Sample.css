@@ -1,0 +1,34 @@
+.card{
+    width: 400px;
+    height: 200px;
+}
+
+.img-pos{
+    width: 150px;
+    height: 220px;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+
+.p{
+    background-color: red;
+}
+
+.card{
+    border-radius: 0px!important;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.mycard{
+    background-color: red;
+}
+
+.imge{
+    width: 100px;
+    height: 50px;
+}

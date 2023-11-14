@@ -1,0 +1,20 @@
+.container{
+    height: 300px!important;
+    padding: 100px;
+    padding-left: 3px;
+    background-color: rgb(19 70 75);
+}
+
+.container-fluid{
+    background-color: rgb(19 70 75)!important;
+}
+
+
+body{
+    background-color: rgb(19 70 75);
+}
+
+.form-box{
+    height: 260px!important;
+    border-radius: 3px!important;
+}
